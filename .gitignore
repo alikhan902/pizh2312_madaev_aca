@@ -26,7 +26,6 @@ __pycache__/
 Thumbs.db
 
 # Графики и результаты экспериментов
-*.png
 *.jpg
 *.jpeg
 *.svg
